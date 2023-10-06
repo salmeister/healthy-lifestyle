@@ -5,7 +5,7 @@
 
 ## Diet :meat_on_bone:
 ### Podcasts
-- [[The Minimalists] Dr. Sean O'Mara — Minimize Fat](https://www.theminimalists.com/podcast/#408) :muscle:
+- [[The Minimalists] Dr. Sean O'Mara — Minimize Fat](https://www.theminimalists.com/podcast/#408) :muscle: :stew:
 - [[The Minimalists] Dr. Paul Saladino — Food Clutter](https://www.theminimalists.com/podcast/#384)
 
 ### Documentaries
@@ -15,7 +15,7 @@
 ### Books
 - [[Vinnie Tortorich] Intro to NSNG](https://nsng.vinnietortorich.com/product/intro-to-nsng/)
 
-## Gut Health 
+## Gut Health :stew:
 - [[The Minimalists] Dr. Zach Bush — Decluttering the Gut](https://www.theminimalists.com/podcast/#398)
 
 ## Exercise :muscle:
@@ -26,7 +26,7 @@
 ## Sleep :zzz:
 - [[Dr. Andrew Huberman] Non-Sleep Deep Rest](https://www.youtube.com/watch?v=YrubXRXwxJc)
 
-## Brain Function 
+## Brain Function :brain:
 - [[Fitness Confidential] Dr. Mary Newport - Your Brain on Coconut Oil](https://vinnietortorich.com/2022/09/your-brain-coconut-oil-dr-mary-newport-episode-2201/)
 
 
