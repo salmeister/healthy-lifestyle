@@ -8,25 +8,33 @@
 - [[The Minimalists] Dr. Sean O'Mara — Minimize Fat](https://www.theminimalists.com/podcast/#408) :muscle: :stew:
 - [[The Minimalists] Dr. Paul Saladino — Food Clutter](https://www.theminimalists.com/podcast/#384)
 
+### Books
+- [[Vinnie Tortorich] Intro to NSNG](https://nsng.vinnietortorich.com/product/intro-to-nsng/)
+
 ### Documentaries
 - [[Vinnie Tortorich] Fat A Documentary](https://www.youtube.com/watch?v=iVJM_0XEiBI)
 - [[Vinnie Tortorich] Fat A Documentary 2](https://www.youtube.com/watch?v=AoPisYHbMcg)
 
-### Books
-- [[Vinnie Tortorich] Intro to NSNG](https://nsng.vinnietortorich.com/product/intro-to-nsng/)
 
 ## Gut Health :stew:
+### Podcasts
 - [[The Minimalists] Dr. Zach Bush — Decluttering the Gut](https://www.theminimalists.com/podcast/#398)
 
+
 ## Exercise :muscle:
+### Podcasts
 - [[Fitness Confidential] Dr. Ben Bocchicchio - The Colorado Experiment](https://vinnietortorich.com/2022/06/colorado-experiment-bocchicchio-episode-2116/)
 - [[Joe Rogan] Ben Patrick — Knees Over Toes Guy](https://open.spotify.com/episode/2zfpB6RoKwylk3DbN3GXA0?si=de02e3493ef74d07)
 - [[Fitness Confidential] Dr. Ben Bocchicchio - Slow, High Resistance Exercise](https://vinnietortorich.com/2018/12/slow-high-resistance-exercise-with-dr-ben-bocchicchio-episode-1206/)
 
+
 ## Sleep :zzz:
+### Videos
 - [[Dr. Andrew Huberman] Non-Sleep Deep Rest](https://www.youtube.com/watch?v=YrubXRXwxJc)
 
+
 ## Brain Function :brain:
+### Podcasts
 - [[Fitness Confidential] Dr. Mary Newport - Your Brain on Coconut Oil](https://vinnietortorich.com/2022/09/your-brain-coconut-oil-dr-mary-newport-episode-2201/)
 
 
