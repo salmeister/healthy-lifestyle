@@ -5,7 +5,7 @@
 
 ## Diet :meat_on_bone:
 ### Podcasts
-- [[The Minimalists] Dr. Sean O'Mara — Minimize Fat](https://www.theminimalists.com/podcast/#408) :muscle:
+- [[The Minimalists] Dr. Sean O'Mara — Minimize Fat](https://www.theminimalists.com/podcast/#408) <p>:muscle:</p>
 - [[The Minimalists] Dr. Paul Saladino — Food Clutter](https://www.theminimalists.com/podcast/#384)
 
 ### Documentaries
