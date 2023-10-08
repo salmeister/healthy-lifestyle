@@ -7,7 +7,7 @@
 ### Podcasts
 - [[The Minimalists] Dr. Sean O'Mara — Minimize Fat](https://www.theminimalists.com/podcast/#408) :muscle: :stew:
 - [[The Minimalists] Dr. Paul Saladino — Food Clutter](https://www.theminimalists.com/podcast/#384)
-- [[The Way I Heard It with Mike Rowe]] Vinnie Tortorich — Where's the Beef?(https://audioboom.com/posts/8056110-where-s-the-beef) 
+- [[The Way I Heard It with Mike Rowe] Vinnie Tortorich — Where's the Beef?] (https://audioboom.com/posts/8056110-where-s-the-beef) 
 
 ### Books
 - [[Vinnie Tortorich] Intro to NSNG](https://nsng.vinnietortorich.com/product/intro-to-nsng/)
