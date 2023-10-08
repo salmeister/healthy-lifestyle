@@ -7,6 +7,7 @@
 ### Podcasts
 - [[The Minimalists] Dr. Sean O'Mara — Minimize Fat](https://www.theminimalists.com/podcast/#408) :muscle: :stew:
 - [[The Minimalists] Dr. Paul Saladino — Food Clutter](https://www.theminimalists.com/podcast/#384)
+- [[The Way I Heard It with Mike Rowe]] Vinnie Tortorich — Where's the Beef?(https://audioboom.com/posts/8056110-where-s-the-beef) 
 
 ### Books
 - [[Vinnie Tortorich] Intro to NSNG](https://nsng.vinnietortorich.com/product/intro-to-nsng/)
@@ -15,6 +16,8 @@
 - [[Vinnie Tortorich] Fat A Documentary](https://www.youtube.com/watch?v=iVJM_0XEiBI)
 - [[Vinnie Tortorich] Fat A Documentary 2](https://www.youtube.com/watch?v=AoPisYHbMcg)
 
+### Videos
+- [[Dr. Sean O'Mara] Optimize Your Health] (https://youtu.be/XuFD5tMz9M0?si=f8SKPcSGIEqInaWs)
 
 ## Gut Health :stew:
 ### Podcasts
