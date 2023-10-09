@@ -24,6 +24,7 @@
 ## Gut Health :stew:
 ### Podcasts
 - [[The Minimalists] Dr. Zach Bush — Decluttering the Gut](https://www.theminimalists.com/podcast/#398)
+- [[Dr. Andrew Huberman] Gut-Brain Health](https://youtu.be/pvI1vLHV0Mo?si=-KyK2ta83Fo6_BV1)
 
 
 ## Exercise :muscle:
@@ -54,6 +55,7 @@
 - [[Tim Ferriss] Arthur C. Brooks — How to Be Happy](https://tim.blog/2023/09/11/arthur-c-brooks/) [:memo:](./Notes/Podcasts/Happiness/[Tim%20Ferriss]%20Arthur%20C.%20Brooks%20—%20How%20to%20Be%20Happy.md)
 - [[The Minimalists] Zach Bush — Simplifying Death](https://www.theminimalists.com/podcast/#362)
 - [[Joe Rogan] Sadhguru](https://open.spotify.com/episode/0zN02uiYg9KUwYs4JY8Nwg?si=834e1c5ee77d4e99)
+- [[Dr. Andrew Huberman] The Optimal Morning Routine](https://youtu.be/gR_f-iwUGY4?si=ToyBFRHMwhTv3aCS)
 
 ### Books
 - [[Rhonda Byrne]The Greatest Secret](https://www.amazon.com/The-Greatest-Secret/dp/B08GNDRZ3T/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=)
