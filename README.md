@@ -1,13 +1,14 @@
 # Healthy Lifestyle
 
-> A collection of health, fitness, and lifestyle resources.
+> A collection of health, fitness, and lifestyle resources. Newly added items will added at the top of the list.
 
 
 ## Diet :meat_on_bone:
 ### Podcasts
 - [[The Minimalists] Dr. Sean O'Mara — Minimize Fat](https://www.theminimalists.com/podcast/#408) :muscle: :stew:
 - [[The Minimalists] Dr. Paul Saladino — Food Clutter](https://www.theminimalists.com/podcast/#384)
-- [[The Way I Heard It with Mike Rowe] Vinnie Tortorich — Where's the Beef?] (https://audioboom.com/posts/8056110-where-s-the-beef)
+- [[Joe Rogan] Will Harris — White Oak Pastures](https://open.spotify.com/episode/0qf7CYEhxSFPAcdSw1JJMY?si=b6f7eaae9e1b45f2)
+- [[The Way I Heard It with Mike Rowe] Vinnie Tortorich — Where's the Beef?](https://audioboom.com/posts/8056110-where-s-the-beef) :muscle:
 
 ### Books
 - [[Vinnie Tortorich] Intro to NSNG](https://nsng.vinnietortorich.com/product/intro-to-nsng/)
@@ -17,7 +18,7 @@
 - [[Vinnie Tortorich] Fat A Documentary 2](https://www.youtube.com/watch?v=AoPisYHbMcg)
 
 ### Videos
-- [[Dr. Sean O'Mara] Optimize Your Health] (https://youtu.be/XuFD5tMz9M0?si=f8SKPcSGIEqInaWs) :muscle:
+- [[Dr. Sean O'Mara] Optimize Your Health](https://youtu.be/XuFD5tMz9M0?si=f8SKPcSGIEqInaWs) :muscle:
   
 
 ## Gut Health :stew:
