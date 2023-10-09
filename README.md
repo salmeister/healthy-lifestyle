@@ -28,19 +28,25 @@
 
 ## Exercise :muscle:
 ### Podcasts
-- [[Fitness Confidential] Dr. Ben Bocchicchio - The Colorado Experiment](https://vinnietortorich.com/2022/06/colorado-experiment-bocchicchio-episode-2116/)
+- [[Fitness Confidential] Dr. Ben Bocchicchio - The Colorado Experiment](https://youtu.be/P4hq8sIvb3c?si=UDeE7TohFACTllJF)
 - [[Joe Rogan] Ben Patrick — Knees Over Toes Guy](https://open.spotify.com/episode/2zfpB6RoKwylk3DbN3GXA0?si=de02e3493ef74d07)
-- [[Fitness Confidential] Dr. Ben Bocchicchio - Slow, High Resistance Exercise](https://vinnietortorich.com/2018/12/slow-high-resistance-exercise-with-dr-ben-bocchicchio-episode-1206/)
 
 
 ## Sleep :zzz:
 ### Videos
 - [[Dr. Andrew Huberman] Non-Sleep Deep Rest](https://www.youtube.com/watch?v=YrubXRXwxJc)
 
+### Newsletters
+- [[Dr. Andrew Huberman] Toolkit for Sleep](https://www.hubermanlab.com/newsletter/toolkit-for-sleep)
 
-## Brain Function :brain:
+
+## Brain/Stress :brain:
 ### Podcasts
-- [[Fitness Confidential] Dr. Mary Newport - Your Brain on Coconut Oil](https://vinnietortorich.com/2022/09/your-brain-coconut-oil-dr-mary-newport-episode-2201/)
+- [[Fitness Confidential] Dr. Mary Newport — Your Brain on Coconut Oil](https://youtu.be/Xk5_8v5qLNo?si=J5WwSy52_homs-Wh)
+- [[Fitness Confidential] James Nestor — Breathing Correctly](https://youtu.be/5OKoZLS-h5g?si=4lfYR-vj0Fc8FE1V)
+
+### Videos
+- [[Tim Ferriss] Dr. Andrew Huberman — Breathing Techniques to Reduce Stress and Anxiety](https://youtu.be/kSZKIupBUuc?si=sx_otgGYF73ukiz_)
 
 
 ## Happiness/Spirituality :angel:
