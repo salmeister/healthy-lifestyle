@@ -38,6 +38,7 @@
 ## Sleep :zzz:
 ### Videos
 - [[Dr. Andrew Huberman] Non-Sleep Deep Rest](https://www.youtube.com/watch?v=YrubXRXwxJc)
+- [[Dr. Andrew Huberman] The Optimal Morning Routine](https://youtu.be/gR_f-iwUGY4?si=ToyBFRHMwhTv3aCS) :angel: :brain:
 
 ### Newsletters
 - [[Dr. Andrew Huberman] Toolkit for Sleep](https://www.hubermanlab.com/newsletter/toolkit-for-sleep)
@@ -47,6 +48,7 @@
 ### Podcasts
 - [[Fitness Confidential] Dr. Mary Newport — Your Brain on Coconut Oil](https://youtu.be/Xk5_8v5qLNo?si=J5WwSy52_homs-Wh)
 - [[Fitness Confidential] James Nestor — Breathing Correctly](https://youtu.be/5OKoZLS-h5g?si=4lfYR-vj0Fc8FE1V)
+- [[Jocko Willink] Good](https://www.youtube.com/watch?v=IdTMDpizis8) :angel:
 
 ### Videos
 - [[Tim Ferriss] Dr. Andrew Huberman — Breathing Techniques to Reduce Stress and Anxiety](https://youtu.be/kSZKIupBUuc?si=sx_otgGYF73ukiz_)
@@ -57,8 +59,6 @@
 - [[Tim Ferriss] Arthur C. Brooks — How to Be Happy](https://tim.blog/2023/09/11/arthur-c-brooks/) [:memo:](./Notes/Podcasts/Happiness/[Tim%20Ferriss]%20Arthur%20C.%20Brooks%20—%20How%20to%20Be%20Happy.md)
 - [[The Minimalists] Zach Bush — Simplifying Death](https://www.theminimalists.com/podcast/#362)
 - [[Joe Rogan] Sadhguru](https://open.spotify.com/episode/0zN02uiYg9KUwYs4JY8Nwg?si=834e1c5ee77d4e99)
-- [[Dr. Andrew Huberman] The Optimal Morning Routine](https://youtu.be/gR_f-iwUGY4?si=ToyBFRHMwhTv3aCS)
-- [[Jocko Willink] Good](https://www.youtube.com/watch?v=IdTMDpizis8)
 
 ### Books
 - [[Rhonda Byrne]The Greatest Secret](https://www.amazon.com/The-Greatest-Secret/dp/B08GNDRZ3T/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=)
