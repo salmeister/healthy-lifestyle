@@ -57,7 +57,7 @@
 
 ## Happiness/Spirituality :angel:
 ### Podcasts
-- [[Only the Important Stuff] Krista Ryan — Keep F*!#ing Going](https://www.podbean.com/ew/pb-xi2p3-14d119e) [:memo:](./Notes/Happiness/Podcasts/[Only%20the%20Important%20Stuff]%20Krista%20Ryan%20—%20Keep%20F!#ing%20Going.md)
+- [[Only the Important Stuff] Krista Ryan — Keep F*!#ing Going](https://www.podbean.com/ew/pb-xi2p3-14d119e) [:memo:](./Notes/Happiness/Podcasts/[Only%20the%20Important%20Stuff]%20Krista%20Ryan%20—%20Keep%20Going.md)
 - [[Tim Ferriss] Arthur C. Brooks — How to Be Happy](https://tim.blog/2023/09/11/arthur-c-brooks/) [:memo:](./Notes/Happiness/Podcasts/[Tim%20Ferriss]%20Arthur%20C.%20Brooks%20—%20How%20to%20Be%20Happy.md)
 - [[The Minimalists] Zach Bush — Simplifying Death](https://www.theminimalists.com/podcast/#362)
 - [[Joe Rogan] Sadhguru](https://open.spotify.com/episode/0zN02uiYg9KUwYs4JY8Nwg?si=834e1c5ee77d4e99)
