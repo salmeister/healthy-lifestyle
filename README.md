@@ -64,6 +64,7 @@
 
 ### Books
 - [[Rhonda Byrne]The Greatest Secret](https://www.amazon.com/The-Greatest-Secret/dp/B08GNDRZ3T/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=)
+- [[Napoleon Hill]Think and Grow Rich](https://www.amazon.com/Think-Grow-Rich-Landmark-Bestseller/dp/1585424331)[:memo:](./Notes/Happiness/Podcasts/[Napoleon%20Hill]%20Think%20and%20Grow%20Rich.md)
 - [The Bible](https://www.youversion.com/)
 
 
@@ -77,10 +78,4 @@ https://open.spotify.com/episode/2BGyj7ukaq8aA29BsA1Yuk?si=1ffd202c011443d0
 Rhonda Patrick
 https://open.spotify.com/episode/7y8MKnfhML6KzvA6GVd83B?si=d17aa7f2b66a4ea7
 
-Peter Attia
-https://open.spotify.com/episode/5DuxGhOJSa7X0AKvJGwwta?si=adba93aa07e94726
-https://open.spotify.com/episode/6x9k7KcvhAV44Ik0fX2oeu?si=DH5CWwiGQ5eGGA7MWvcXBg
-
-Chris Kresser
-Paul Stamets
 -->
