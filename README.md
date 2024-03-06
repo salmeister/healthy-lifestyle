@@ -69,6 +69,10 @@
 - [[Napoleon Hill] Think and Grow Rich](https://www.amazon.com/Think-Grow-Rich-Landmark-Bestseller/dp/1585424331)[:memo:](./Notes/Happiness/Podcasts/[Napoleon%20Hill]%20Think%20and%20Grow%20Rich.md)
 - [The Bible](https://www.youversion.com/)
 
+### Clips
+- [[Unstoppable] Zach Bush — Rabbits and Pesticides Study ](https://youtube.com/clip/Ugkx1mJ0yyrcWatebI5KA_ByXTdwd3c0mabA?si=BETEpvHDvMyG7F9Q)
+- [[Unstoppable] Zach Bush — Eating Together ](https://youtube.com/clip/Ugkx5aGBx3qXld3O6Qn1lC4Dj_8O70jW1DcK?si=e-e0h9WpGWpy4UIo)
+
 
 <!---
 Huberman
