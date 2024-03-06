@@ -57,6 +57,7 @@
 
 ## Happiness/Spirituality :angel:
 ### Podcasts
+- [[Otherworld] The Valley](https://open.spotify.com/episode/4g1RHKTzlSkZ5nJeMKIXjb?si=2244d19c4425450d) [:memo:](./Notes/Happiness/Podcasts/[Otherworld]%20The%20Valley.md)
 - [[Only the Important Stuff] Andy Salmela — Kids, Marriage, Loss](https://onlytheimportantstuff.podbean.com/e/the-big-cat-returns/)
 - [[Only the Important Stuff] Krista Ryan — Keep F*!#ing Going](https://onlytheimportantstuff.podbean.com/e/krista-ryan/) [:memo:](./Notes/Happiness/Podcasts/[Only%20the%20Important%20Stuff]%20Krista%20Ryan%20—%20KeepGoing.md)
 - [[Tim Ferriss] Arthur C. Brooks — How to Be Happy](https://tim.blog/2023/09/11/arthur-c-brooks/) [:memo:](./Notes/Happiness/Podcasts/[Tim%20Ferriss]%20Arthur%20C.%20Brooks%20—%20How%20to%20Be%20Happy.md)
@@ -78,5 +79,10 @@ https://open.spotify.com/episode/2BGyj7ukaq8aA29BsA1Yuk?si=1ffd202c011443d0
 
 Rhonda Patrick
 https://open.spotify.com/episode/7y8MKnfhML6KzvA6GVd83B?si=d17aa7f2b66a4ea7
+
+
+Zach Bush Clips
+https://youtube.com/clip/Ugkx1mJ0yyrcWatebI5KA_ByXTdwd3c0mabA?si=oa6zRZjn5c9-ioZE
+https://youtube.com/clip/Ugkx5aGBx3qXld3O6Qn1lC4Dj_8O70jW1DcK?si=itjnOFZoXcly6b33
 
 -->
