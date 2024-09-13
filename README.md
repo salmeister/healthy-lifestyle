@@ -4,7 +4,7 @@
 
 
 ## Diet :meat_on_bone:
-### Podcasts
+### Podcast Episodes
 - [[The Minimalists] Dr. Sean O'Mara — Minimize Fat](https://www.theminimalists.com/podcast/#408) :muscle: :stew:
 - [[The Minimalists] Dr. Paul Saladino — Food Clutter](https://www.theminimalists.com/podcast/#384)
 - [[Joe Rogan] Will Harris — White Oak Pastures](https://open.spotify.com/episode/0qf7CYEhxSFPAcdSw1JJMY?si=b6f7eaae9e1b45f2)
@@ -25,13 +25,13 @@
   
 
 ## Gut Health :stew:
-### Podcasts
+### Podcast Episodes
 - [[The Minimalists] Dr. Zach Bush — Decluttering the Gut](https://www.theminimalists.com/podcast/#398)
 - [[Dr. Andrew Huberman] Gut-Brain Health](https://youtu.be/pvI1vLHV0Mo?si=-KyK2ta83Fo6_BV1)
 
 
 ## Exercise :muscle:
-### Podcasts
+### Podcast Episodes
 - [[Fitness Confidential] Dr. Ben Bocchicchio - The Colorado Experiment](https://youtu.be/P4hq8sIvb3c?si=UDeE7TohFACTllJF)
 - [[Joe Rogan] Ben Patrick — Knees Over Toes Guy](https://open.spotify.com/episode/2zfpB6RoKwylk3DbN3GXA0?si=de02e3493ef74d07)
 
@@ -46,7 +46,7 @@
 
 
 ## Brain/Stress :brain:
-### Podcasts
+### Podcast Episodes
 - [[Fitness Confidential] Dr. Mary Newport — Your Brain on Coconut Oil](https://youtu.be/Xk5_8v5qLNo?si=J5WwSy52_homs-Wh)
 - [[Fitness Confidential] James Nestor — Breathing Correctly](https://youtu.be/5OKoZLS-h5g?si=4lfYR-vj0Fc8FE1V)
 - [[Jocko Willink] Good](https://www.youtube.com/watch?v=IdTMDpizis8) :angel:
@@ -56,7 +56,7 @@
 
 
 ## Happiness/Spirituality :angel:
-### Podcasts
+### Podcast Episodes
 - [[Otherworld] The Valley](https://open.spotify.com/episode/4g1RHKTzlSkZ5nJeMKIXjb?si=2244d19c4425450d) [:memo:](./Notes/Happiness/Podcasts/[Otherworld]%20The%20Valley.md)
 - [[Only the Important Stuff] Andy Salmela — Kids, Marriage, Loss](https://onlytheimportantstuff.podbean.com/e/the-big-cat-returns/)
 - [[Only the Important Stuff] Krista Ryan — Keep F*!#ing Going](https://onlytheimportantstuff.podbean.com/e/krista-ryan/) [:memo:](./Notes/Happiness/Podcasts/[Only%20the%20Important%20Stuff]%20Krista%20Ryan%20—%20KeepGoing.md)
@@ -72,6 +72,26 @@
 ### Clips
 - [[Unstoppable] Zach Bush — Rabbits and Pesticides Study ](https://youtube.com/clip/Ugkx1mJ0yyrcWatebI5KA_ByXTdwd3c0mabA?si=BETEpvHDvMyG7F9Q)
 - [[Unstoppable] Zach Bush — Eating Together ](https://youtube.com/clip/Ugkx5aGBx3qXld3O6Qn1lC4Dj_8O70jW1DcK?si=e-e0h9WpGWpy4UIo)
+
+### Podcasts
+- [[Know Thyself] - Andre Duqum](https://www.youtube.com/playlist?list=PLcdXvEekPv1GRqbvjVf41TrYQhjHRO1_q)
+- [[Aubrey Marcus Podcast] - Aubrey Marcus](https://www.aubreymarcus.com/blogs/aubrey-marcus-podcast)
+- [[Think Tank] - Robert Edward Grant](https://robertedwardgrant.com/podcast/)
+- [[The Rich Roll Podcast] - Rich Roll](https://www.richroll.com/all-episodes/)
+- [[On Purpose with Jay Shetty] - Jay Shetty](https://www.youtube.com/@JayShettyPodcast)
+
+### People
+- [Zach Bush](https://zachbushmd.com/) 
+- [Kute Blackson](https://kuteblackson.com/)
+- [Federico Faggin](https://www.federicofaggin.com/)
+- [Paul Chek](https://chekinstitute.com/)
+- [Joe Dispenza](https://drjoedispenza.com/)
+- [Bruce Lipton](https://www.brucelipton.com/)
+- [Billy Carson](https://www.4biddenknowledge.com/)
+- [Sadhguru](https://isha.sadhguru.org/us/en)
+- [Arthur C. Brooks](https://arthurbrooks.com/)
+- [Matias De Stefano](https://matiasdestefano.org/en/frontpage/)
+
 
 
 <!---
