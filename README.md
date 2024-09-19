@@ -91,7 +91,8 @@
 - [Sadhguru](https://isha.sadhguru.org/us/en)
 - [Arthur C. Brooks](https://arthurbrooks.com/)
 - [Matias De Stefano](https://matiasdestefano.org/en/frontpage/)
-
+- [James Hollis](https://jameshollis.net/)
+- [Colin O'Brady](https://www.colinobrady.com/)
 
 
 <!---
