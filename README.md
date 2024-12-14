@@ -63,8 +63,8 @@
 - [[Tim Ferriss] Arthur C. Brooks — How to Be Happy](https://tim.blog/2023/09/11/arthur-c-brooks/) [:memo:](./Notes/Happiness/Podcasts/[Tim%20Ferriss]%20Arthur%20C.%20Brooks%20—%20How%20to%20Be%20Happy.md)
 - [[The Minimalists] Zach Bush — Simplifying Death](https://www.theminimalists.com/podcast/#362)
 - [[Joe Rogan] Sadhguru](https://open.spotify.com/episode/0zN02uiYg9KUwYs4JY8Nwg?si=834e1c5ee77d4e99)
-- [[Know Thyelf]BioHacking - Dave Asprey](https://www.youtube.com/watch?v=ipe3GM30wZw&list=PLcdXvEekPv1GRqbvjVf41TrYQhjHRO1_q)
-- [[Aubrey Marcus] NDE Survivor - Anita Moorjani](https://www.youtube.com/watch?v=6Po0qnuA3Vo)
+- [[Know Thyself] BioHacking - Dave Asprey](https://www.youtube.com/watch?v=ipe3GM30wZw&list=PLcdXvEekPv1GRqbvjVf41TrYQhjHRO1_q) :meat_on_bone: :brain:
+- [[Aubrey Marcus] NDE Survivor - Anita Moorjani](https://www.youtube.com/watch?v=6Po0qnuA3Vo) :brain:
 
 ### Books
 - [[Rhonda Byrne] The Greatest Secret](https://www.amazon.com/The-Greatest-Secret/dp/B08GNDRZ3T/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=)
