@@ -1,6 +1,8 @@
 # [Healthy Lifestyle Guide](https://salmeister.github.io/HealthyLifestyleGuide/)
 Health & Wellness Guide: Tips for Nutrition, Fitness, and Mental Health.
 
+[![Sponsor](https://img.shields.io/badge/Sponsor-Healthy%20Lifestyle%20Guide-brightgreen)](https://github.com/sponsors/salmeister)
+
 ## Table of Contents
 - [**Diet 🍖**](#diet-)
   - [Podcast Episodes](#podcast-episodes)
