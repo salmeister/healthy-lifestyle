@@ -1,7 +1,12 @@
-# [Healthy Lifestyle Guide](https://salmeister.github.io/HealthyLifestyleGuide/)
+# [Healthy Lifestyle Guide](https://thehealthylifestyleguide.com)
 Health & Wellness Guide: Tips for Nutrition, Fitness, and Mental Health.
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-Healthy%20Lifestyle%20Guide-brightgreen)](https://github.com/sponsors/salmeister)
+
+If you want to add new items, please [create a pull request](https://github.com/salmeister/HealthyLifestyleGuide/compare).
+
+If you find any broken links, please [report them by creating an issue](https://github.com/salmeister/HealthyLifestyleGuide/issues/new?assignees=&labels=bug&template=broken-link.md&title=Broken+Link).
+
 
 ## Table of Contents
 - [**Diet 🍖**](#diet-)
