@@ -1,3 +1,5 @@
+# [Healthy Lifestyle Guide](https://salmeister.github.io/HealthyLifestyleGuide/)
+Health & Wellness Guide: Tips for Nutrition, Fitness, and Mental Health.
 
 ## Table of Contents
 - [**Diet 🍖**](#diet-)
