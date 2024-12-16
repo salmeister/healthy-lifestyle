@@ -5,20 +5,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Healthy Lifestyle Guide</title>
     <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 24 24%22><text y=%2216%22 font-size=%2220%22>😇</text></svg>">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 </head>
 <body>
-    <div id="content">
-        <div id="readme-content"></div>
-        <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-        <script>
-            fetch('./README.md')
-                .then(response => response.text())
-                .then(text => {
-                    const markdownContent = marked(text);
-                    document.getElementById('readme-content').innerHTML = markdownContent;
-                })
-                .catch(error => console.error('Error loading README.md:', error));
-        </script>
-    </div>
+    <div id="content"></div>
+    <script>
+        fetch('README.md')
+        .then(response => response.text())
+        .then(text => {
+            document.getElementById('content').innerHTML = marked.parse(text);
+        });
+    </script>
 </body>
 </html>
