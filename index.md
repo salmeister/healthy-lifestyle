@@ -1,4 +1,3 @@
-    
 <h3>Get Involved</h3>
 >    <p><a href="https://github.com/sponsors/salmeister" style="text-decoration: none;"><img src="https://img.shields.io/badge/Sponsor-Healthy%20Lifestyle%20Guide-brightgreen" alt="Sponsor"></a></p>
 > <p style="color: #555;">Want to contribute? <a href="https://github.com/salmeister/HealthyLifestyleGuide/compare" style="color: #007bff;">Create a pull request</a>.</p>
@@ -7,36 +6,46 @@
 <details>
   <summary><strong><span style="font-size: 1.5em;">Diet 🍖</span></strong></summary>
 
-- [Introduction](#introduction)
-- [Getting Started](#getting-started)
-- [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
+### Podcast Episodes
+- [[Rich Roll] Robin Berzin - LONGEVITY PROTOCOL For Women](https://www.youtube.com/watch?v=P28Pqr9BSWw)💪
+- [[Andrew Huberman]Dr. Stacy Sims - Female Exercise & Nutrition](https://www.youtube.com/watch?v=pZX8ikmWvEU)💪
+- [[The Minimalists] Dr. Sean O'Mara — Minimize Fat](https://www.theminimalists.com/podcast/#408) 💪 🍲
+- [[The Minimalists] Dr. Paul Saladino — Food Clutter](https://www.theminimalists.com/podcast/#384)
+- [[Joe Rogan] Will Harris — White Oak Pastures](https://open.spotify.com/episode/0qf7CYEhxSFPAcdSw1JJMY?si=b6f7eaae9e1b45f2)
+- [[The Way I Heard It with Mike Rowe] Vinnie Tortorich — Where's the Beef?](https://audioboom.com/posts/8056110-where-s-the-beef) 💪
+- [[Joe Rogan] Dr. Rhonda Patrick — Ketogenic Diet](https://open.spotify.com/episode/7y8MKnfhML6KzvA6GVd83B?si=mrIaUnsMTLuD0DnTR39GkQ)
 
-## Introduction
+### Books
+- [[Vinnie Tortorich] Intro to NSNG](https://nsng.vinnietortorich.com/product/intro-to-nsng/)
 
-The Healthy Lifestyle Guide is a comprehensive resource for anyone looking to improve their health and well-being. It covers various aspects of a healthy lifestyle, including nutrition, exercise, mental health, and more.
+### Documentaries
+- [[Vinnie Tortorich] Fat A Documentary](https://www.youtube.com/watch?v=iVJM_0XEiBI)
+- [[Vinnie Tortorich] Fat A Documentary 2](https://www.youtube.com/watch?v=AoPisYHbMcg)
 
-## Getting Started
+### Videos
+- [[Vinnie Tortorich] Top 10 Foods That You Should Be Eating](https://youtu.be/2-fHQIhVAGA?si=wvBa12QBylM-ltn0)
+- [[Vinnie Tortorich] Top 10 Foods That You Should Stop Eating](https://youtu.be/3oVdksMTJ50?si=h5iZRlqMw9UgcXPb)
+- [[Dr. Sean O'Mara] Optimize Your Health](https://youtu.be/XuFD5tMz9M0?si=f8SKPcSGIEqInaWs) 💪
 
-To get started with the Healthy Lifestyle Guide, simply clone this repository and explore the available resources:
+</details>
 
-```bash
-git clone https://github.com/yourusername/HealthyLifestyleGuide.git
-```
+<details>
+  <summary><strong><span style="font-size: 1.5em;">Gut Health 🍲</span></strong></summary>
 
-## Features
+### Podcast Episodes
+- [[The Minimalists] Dr. Zach Bush — Decluttering the Gut](https://www.theminimalists.com/podcast/#398)
+- [[Dr. Andrew Huberman] Gut-Brain Health](https://youtu.be/pvI1vLHV0Mo?si=-KyK2ta83Fo6_BV1)
 
-- **Nutrition Tips**: Learn about balanced diets, healthy recipes, and nutritional advice.
-- **Exercise Routines**: Discover workout plans and exercise routines for different fitness levels.
-- **Mental Health**: Find resources and tips for maintaining mental well-being.
-- **Healthy Habits**: Explore habits and practices that contribute to a healthier lifestyle.
+</details>
 
-## Contributing
+<details>
+  <summary><strong><span style="font-size: 1.5em;">Exercise 💪</span></strong></summary>
 
-We welcome contributions from the community! If you have any suggestions, improvements, or new content to add, please feel free to submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
+### Podcast Episodes
+- [[Fitness Confidential] Dr. Ben Bocchicchio - The Colorado Experiment](https://youtu.be/P4hq8sIvb3c?si=UDeE7TohFACTllJF)
+- [[Joe Rogan] Ben Patrick — Knees Over Toes Guy](https://open.spotify.com/episode/2zfpB6RoKwylk3DbN3GXA0?si=de02e3493ef74d07)
 
-## License
+</details>
 
 <details>
   <summary><strong><span style="font-size: 1.5em;">Sleep 😴</span></strong></summary>
