@@ -1,22 +1,22 @@
-# Healthy Lifestyle Guide
-Health & Wellness Guide: Tips for Nutrition, Fitness, and Mental Health.
-
-<div style="background-color:rgb(212, 212, 212); padding: 20px; border-radius: 10px; margin-bottom: 20px; width: 500px;">
-  <h3 style="color: #333;">Get Involved</h3>
-  <p>
-    <a href="https://github.com/sponsors/salmeister" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/Sponsor-Healthy%20Lifestyle%20Guide-brightgreen" alt="Sponsor">
-    </a>
-  </p>
-  <p style="color: #555;">
-    Want to contribute? <a href="https://github.com/salmeister/HealthyLifestyleGuide/compare" style="color: #007bff;">Create a pull request</a>.
-  </p>
-  <p style="color: #555;">
-    Found a broken link? <a href="https://github.com/salmeister/HealthyLifestyleGuide/issues/new?assignees=&labels=bug&template=broken-link.md&title=Broken+Link" style="color: #007bff;">Report it here</a>.
-  </p>
+<strong style="color: #333; font-size: 1.5em;">Healthy Lifestyle Guide</strong>
+    <p style="color: #555;">Health & Wellness Guide: Tips for Nutrition, Fitness, and Mental Health.</p>
+    
+<div style="background-color:rgb(212, 212, 212); padding: 10px; border-radius: 10px; margin-bottom: 10px; width: 500px;">
+    <h3 style="color: #333;">Get Involved</h3>
+    <p>
+        <a href="https://github.com/sponsors/salmeister" style="text-decoration: none;">
+            <img src="https://img.shields.io/badge/Sponsor-Healthy%20Lifestyle%20Guide-brightgreen" alt="Sponsor">
+        </a>
+    </p>
+    <p style="color: #555;">
+        Want to contribute? <a href="https://github.com/salmeister/HealthyLifestyleGuide/compare" style="color: #007bff;">Create a pull request</a>.
+    </p>
+    <p style="color: #555;">
+        Found a broken link? <a href="https://github.com/salmeister/HealthyLifestyleGuide/issues/new?assignees=&labels=bug&template=broken-link.md&title=Broken+Link" style="color: #007bff;">Report it here</a>.
+    </p>
 </div>
 
-<details open>
+<details>
   <summary><strong><span style="font-size: 1.5em;">Diet 🍖</span></strong></summary>
 
 ### Podcast Episodes
@@ -107,5 +107,26 @@ Health & Wellness Guide: Tips for Nutrition, Fitness, and Mental Health.
 ### Clips
 - [[Unstoppable] Zach Bush — Rabbits and Pesticides Study](https://youtube.com/clip/Ugkx1mJ0yyrcWatebI5KA_ByXTdwd3c0mabA?si=BETEpvHDvMyG7F9Q)
 - [[Unstoppable] Zach Bush — Eating Together](https://youtube.com/clip/Ugkx5aGBx3qXld3O6Qn1lC4Dj_8O70jW1DcK?si=e-e0h9WpGWpy4UIo)
+
+### Podcasts
+- [[Know Thyself] - Andre Duqum](https://www.youtube.com/playlist?list=PLcdXvEekPv1GRqbvjVf41TrYQhjHRO1_q)
+- [[Aubrey Marcus Podcast] - Aubrey Marcus](https://www.aubreymarcus.com/blogs/aubrey-marcus-podcast)
+- [[Think Tank] - Robert Edward Grant](https://robertedwardgrant.com/podcast/)
+- [[The Rich Roll Podcast] - Rich Roll](https://www.richroll.com/all-episodes/)
+- [[On Purpose with Jay Shetty] - Jay Shetty](https://www.youtube.com/@JayShettyPodcast)
+
+### People
+- [Zach Bush](https://zachbushmd.com/) 
+- [Kute Blackson](https://kuteblackson.com/)
+- [Federico Faggin](https://www.federicofaggin.com/)
+- [Paul Chek](https://chekinstitute.com/)
+- [Joe Dispenza](https://drjoedispenza.com/)
+- [Bruce Lipton](https://www.brucelipton.com/)
+- [Billy Carson](https://www.4biddenknowledge.com/)
+- [Sadhguru](https://isha.sadhguru.org/us/en)
+- [Arthur C. Brooks](https://arthurbrooks.com/)
+- [Matias De Stefano](https://matiasdestefano.org/en/frontpage/)
+- [James Hollis](https://jameshollis.net/)
+- [Colin O'Brady](https://www.colinobrady.com/)
 
 </details>
