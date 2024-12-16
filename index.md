@@ -3,8 +3,7 @@
 > <p style="color: #555;">Want to contribute? <a href="https://github.com/salmeister/HealthyLifestyleGuide/compare" style="color: #007bff;">Create a pull request</a>.</p>
 > <p style="color: #555;">Found a broken link? <a href="https://github.com/salmeister/HealthyLifestyleGuide/issues/new?assignees=&labels=bug&template=broken-link.md&title=Broken+Link" style="color: #007bff;">Report it here</a>.</p>
 
-<details>
-  <summary><strong><span style="font-size: 1.5em;">Diet 🍖</span></strong></summary>
+<h3>Diet 🍖</h3>
 
 ### Podcast Episodes
 - [[Rich Roll] Robin Berzin - LONGEVITY PROTOCOL For Women](https://www.youtube.com/watch?v=P28Pqr9BSWw)💪
@@ -27,28 +26,19 @@
 - [[Vinnie Tortorich] Top 10 Foods That You Should Stop Eating](https://youtu.be/3oVdksMTJ50?si=h5iZRlqMw9UgcXPb)
 - [[Dr. Sean O'Mara] Optimize Your Health](https://youtu.be/XuFD5tMz9M0?si=f8SKPcSGIEqInaWs) 💪
 
-</details>
-
-<details>
-  <summary><strong><span style="font-size: 1.5em;">Gut Health 🍲</span></strong></summary>
+<h3>Gut Health 🍲</h3>
 
 ### Podcast Episodes
 - [[The Minimalists] Dr. Zach Bush — Decluttering the Gut](https://www.theminimalists.com/podcast/#398)
 - [[Dr. Andrew Huberman] Gut-Brain Health](https://youtu.be/pvI1vLHV0Mo?si=-KyK2ta83Fo6_BV1)
 
-</details>
-
-<details>
-  <summary><strong><span style="font-size: 1.5em;">Exercise 💪</span></strong></summary>
+<h3>Exercise 💪</h3>
 
 ### Podcast Episodes
 - [[Fitness Confidential] Dr. Ben Bocchicchio - The Colorado Experiment](https://youtu.be/P4hq8sIvb3c?si=UDeE7TohFACTllJF)
 - [[Joe Rogan] Ben Patrick — Knees Over Toes Guy](https://open.spotify.com/episode/2zfpB6RoKwylk3DbN3GXA0?si=de02e3493ef74d07)
 
-</details>
-
-<details>
-  <summary><strong><span style="font-size: 1.5em;">Sleep 😴</span></strong></summary>
+<h3>Sleep 😴</h3>
 
 ### Videos
 - [[Dr. Andrew Huberman] Non-Sleep Deep Rest](https://www.youtube.com/watch?v=YrubXRXwxJc)
@@ -57,10 +47,7 @@
 ### Newsletters
 - [[Dr. Andrew Huberman] Toolkit for Sleep](https://www.hubermanlab.com/newsletter/toolkit-for-sleep)
 
-</details>
-
-<details>
-  <summary><strong><span style="font-size: 1.5em;">Brain/Stress 🧠</span></strong></summary>
+<h3>Brain/Stress 🧠</h3>
 
 ### Podcast Episodes
 - [[Fitness Confidential] Dr. Mary Newport — Your Brain on Coconut Oil](https://youtu.be/Xk5_8v5qLNo?si=J5WwSy52_homs-Wh)
@@ -70,10 +57,7 @@
 ### Videos
 - [[Tim Ferriss] Dr. Andrew Huberman — Breathing Techniques to Reduce Stress and Anxiety](https://youtu.be/kSZKIupBUuc?si=sx_otgGYF73ukiz_)
 
-</details>
-
-<details>
-  <summary><strong><span style="font-size: 1.5em;">Happiness/Spirituality 😇</span></strong></summary>
+<h3>Happiness/Spirituality 😇</h3>
 
 ### Podcast Episodes
 - [[Aubrey Marcus] NDE Survivor - Anita Moorjani](https://www.youtube.com/watch?v=6Po0qnuA3Vo) 🧠
@@ -115,5 +99,3 @@
 - [Matias De Stefano](https://matiasdestefano.org/en/frontpage/)
 - [James Hollis](https://jameshollis.net/)
 - [Colin O'Brady](https://www.colinobrady.com/)
-
-</details>
