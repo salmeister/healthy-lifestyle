@@ -1,18 +1,18 @@
 # Healthy Lifestyle Guide
 
-<h2 style="font-size: 1.2em; color: #333;">Health & Wellness Guide: Tips for Nutrition, Fitness, and Mental Health.</h2>
+Health & Wellness Guide: Tips for Nutrition, Fitness, and Mental Health.
 
 <div style="background-color:rgb(212, 212, 212); padding: 20px; border-radius: 10px; margin-bottom: 20px;">
-  <h2 style="font-size: 1.5em; color: #333;">Get Involved</h2>
+  <h3 style="color: #333;">Get Involved</h3>
   <p>
     <a href="https://github.com/sponsors/salmeister" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/Sponsor-Healthy%20Lifestyle%20Guide-brightgreen" alt="Sponsor">
     </a>
   </p>
-  <p style="font-size: 1.1em; color: #555;">
+  <p style="color: #555;">
     Want to contribute? <a href="https://github.com/salmeister/HealthyLifestyleGuide/compare" style="color: #007bff;">Create a pull request</a>.
   </p>
-  <p style="font-size: 1.1em; color: #555;">
+  <p style="color: #555;">
     Found a broken link? <a href="https://github.com/salmeister/HealthyLifestyleGuide/issues/new?assignees=&labels=bug&template=broken-link.md&title=Broken+Link" style="color: #007bff;">Report it here</a>.
   </p>
 </div>
