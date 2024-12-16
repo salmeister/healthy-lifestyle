@@ -1,8 +1,7 @@
 # Healthy Lifestyle Guide
-
 Health & Wellness Guide: Tips for Nutrition, Fitness, and Mental Health.
 
-<div style="background-color:rgb(212, 212, 212); padding: 20px; border-radius: 10px; margin-bottom: 20px;">
+<div style="background-color:rgb(212, 212, 212); padding: 20px; border-radius: 10px; margin-bottom: 20px; width: 500px;">
   <h3 style="color: #333;">Get Involved</h3>
   <p>
     <a href="https://github.com/sponsors/salmeister" style="text-decoration: none;">
