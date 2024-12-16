@@ -1,14 +1,23 @@
 # Healthy Lifestyle Guide
-<h2 style="font-size: 1.2em; color: #333; text-align: center;">Health & Wellness Guide: Tips for Nutrition, Fitness, and Mental Health.</h2>
 
-## Get Involved
-[![Sponsor](https://img.shields.io/badge/Sponsor-Healthy%20Lifestyle%20Guide-brightgreen)](https://github.com/sponsors/salmeister)
+<h2 style="font-size: 1.2em; color: #333;">Health & Wellness Guide: Tips for Nutrition, Fitness, and Mental Health.</h2>
 
-Want to contribute? [Create a pull request](https://github.com/salmeister/HealthyLifestyleGuide/compare).
+<div style="background-color:rgb(212, 212, 212); padding: 20px; border-radius: 10px; margin-bottom: 20px;">
+  <h2 style="font-size: 1.5em; color: #333;">Get Involved</h2>
+  <p>
+    <a href="https://github.com/sponsors/salmeister" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Sponsor-Healthy%20Lifestyle%20Guide-brightgreen" alt="Sponsor">
+    </a>
+  </p>
+  <p style="font-size: 1.1em; color: #555;">
+    Want to contribute? <a href="https://github.com/salmeister/HealthyLifestyleGuide/compare" style="color: #007bff;">Create a pull request</a>.
+  </p>
+  <p style="font-size: 1.1em; color: #555;">
+    Found a broken link? <a href="https://github.com/salmeister/HealthyLifestyleGuide/issues/new?assignees=&labels=bug&template=broken-link.md&title=Broken+Link" style="color: #007bff;">Report it here</a>.
+  </p>
+</div>
 
-Found a broken link? [Report it here](https://github.com/salmeister/HealthyLifestyleGuide/issues/new?assignees=&labels=bug&template=broken-link.md&title=Broken+Link).
-
-<details>
+<details open>
   <summary><strong><span style="font-size: 1.5em;">Diet 🍖</span></strong></summary>
 
 ### Podcast Episodes
@@ -78,7 +87,7 @@ Found a broken link? [Report it here](https://github.com/salmeister/HealthyLifes
 </details>
 
 <details>
-<summary><strong><span style="font-size: 1.5em;">Happiness/Spirituality 😇</span></strong></summary>
+  <summary><strong><span style="font-size: 1.5em;">Happiness/Spirituality 😇</span></strong></summary>
 
 ### Podcast Episodes
 - [[Aubrey Marcus] NDE Survivor - Anita Moorjani](https://www.youtube.com/watch?v=6Po0qnuA3Vo) 🧠
@@ -101,4 +110,3 @@ Found a broken link? [Report it here](https://github.com/salmeister/HealthyLifes
 - [[Unstoppable] Zach Bush — Eating Together](https://youtube.com/clip/Ugkx5aGBx3qXld3O6Qn1lC4Dj_8O70jW1DcK?si=e-e0h9WpGWpy4UIo)
 
 </details>
-
