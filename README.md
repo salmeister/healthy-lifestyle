@@ -1,32 +1,12 @@
-# [Healthy Lifestyle Guide](https://thehealthylifestyleguide.com)
-Health & Wellness Guide: Tips for Nutrition, Fitness, and Mental Health.
+# Healthy Lifestyle Guide
+<h2 style="font-size: 1.2em; color: #333; text-align: center;">Health & Wellness Guide: Tips for Nutrition, Fitness, and Mental Health.</h2>
 
+## Get Involved
 [![Sponsor](https://img.shields.io/badge/Sponsor-Healthy%20Lifestyle%20Guide-brightgreen)](https://github.com/sponsors/salmeister)
 
-If you want to add new items, please [create a pull request](https://github.com/salmeister/HealthyLifestyleGuide/compare).
+Want to contribute? [Create a pull request](https://github.com/salmeister/HealthyLifestyleGuide/compare).
 
-If you find any broken links, please [report them by creating an issue](https://github.com/salmeister/HealthyLifestyleGuide/issues/new?assignees=&labels=bug&template=broken-link.md&title=Broken+Link).
-
-## Table of Contents
-- [**Diet 🍖**](#diet-)
-  - [Podcast Episodes](#podcast-episodes)
-  - [Books](#books)
-  - [Documentaries](#documentaries)
-  - [Videos](#videos)
-- [**Gut Health 🍲**](#gut-health-)
-  - [Podcast Episodes](#podcast-episodes-1)
-- [**Exercise 💪**](#exercise-)
-  - [Podcast Episodes](#podcast-episodes-2)
-- [**Sleep 😴**](#sleep-)
-  - [Videos](#videos-1)
-  - [Newsletters](#newsletters)
-- [**Brain/Stress 🧠**](#brainstress-)
-  - [Podcast Episodes](#podcast-episodes-3)
-  - [Videos](#videos-2)
-- [**Happiness/Spirituality 😇**](#happinessspirituality-)
-  - [Podcast Episodes](#podcast-episodes-4)
-  - [Books](#books-1)
-  - [Clips](#clips)
+Found a broken link? [Report it here](https://github.com/salmeister/HealthyLifestyleGuide/issues/new?assignees=&labels=bug&template=broken-link.md&title=Broken+Link).
 
 <details>
   <summary><strong><span style="font-size: 1.5em;">Diet 🍖</span></strong></summary>
