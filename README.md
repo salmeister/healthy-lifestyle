@@ -29,7 +29,7 @@ If you find any broken links, please [report them by creating an issue](https://
   - [Clips](#clips)
 
 <details>
-  <summary><strong>Diet 🍖</strong></summary>
+  <summary><strong><span style="font-size: 1.5em;">Diet 🍖</span></strong></summary>
 
 ### Podcast Episodes
 - [[Rich Roll] Robin Berzin - LONGEVITY PROTOCOL For Women](https://www.youtube.com/watch?v=P28Pqr9BSWw)💪
@@ -55,7 +55,7 @@ If you find any broken links, please [report them by creating an issue](https://
 </details>
 
 <details>
-  <summary><strong>Gut Health 🍲</strong></summary>
+  <summary><strong><span style="font-size: 1.5em;">Gut Health 🍲</span></strong></summary>
 
 ### Podcast Episodes
 - [[The Minimalists] Dr. Zach Bush — Decluttering the Gut](https://www.theminimalists.com/podcast/#398)
@@ -64,7 +64,7 @@ If you find any broken links, please [report them by creating an issue](https://
 </details>
 
 <details>
-  <summary><strong>Exercise 💪</strong></summary>
+  <summary><strong><span style="font-size: 1.5em;">Exercise 💪</span></strong></summary>
 
 ### Podcast Episodes
 - [[Fitness Confidential] Dr. Ben Bocchicchio - The Colorado Experiment](https://youtu.be/P4hq8sIvb3c?si=UDeE7TohFACTllJF)
@@ -73,7 +73,7 @@ If you find any broken links, please [report them by creating an issue](https://
 </details>
 
 <details>
-  <summary><strong>Sleep 😴</strong></summary>
+  <summary><strong><span style="font-size: 1.5em;">Sleep 😴</span></strong></summary>
 
 ### Videos
 - [[Dr. Andrew Huberman] Non-Sleep Deep Rest](https://www.youtube.com/watch?v=YrubXRXwxJc)
@@ -85,7 +85,7 @@ If you find any broken links, please [report them by creating an issue](https://
 </details>
 
 <details>
-  <summary><strong>Brain/Stress 🧠</strong></summary>
+  <summary><strong><span style="font-size: 1.5em;">Brain/Stress 🧠</span></strong></summary>
 
 ### Podcast Episodes
 - [[Fitness Confidential] Dr. Mary Newport — Your Brain on Coconut Oil](https://youtu.be/Xk5_8v5qLNo?si=J5WwSy52_homs-Wh)
@@ -98,7 +98,7 @@ If you find any broken links, please [report them by creating an issue](https://
 </details>
 
 <details>
-  <summary><strong>Happiness/Spirituality 😇</strong></summary>
+<summary><strong><span style="font-size: 1.5em;">Happiness/Spirituality 😇</span></strong></summary>
 
 ### Podcast Episodes
 - [[Aubrey Marcus] NDE Survivor - Anita Moorjani](https://www.youtube.com/watch?v=6Po0qnuA3Vo) 🧠
@@ -122,8 +122,3 @@ If you find any broken links, please [report them by creating an issue](https://
 
 </details>
 
-[![Sponsor](https://img.shields.io/badge/Sponsor-Healthy%20Lifestyle%20Guide-brightgreen)](https://github.com/sponsors/salmeister)
-
-If you find any broken links, please [report them by creating an issue](https://github.com/salmeister/HealthyLifestyleGuide/issues/new?assignees=&labels=bug&template=broken-link.md&title=Broken+Link).
-
-If you want to add new items, please [create a pull request](https://github.com/salmeister/HealthyLifestyleGuide/compare).
