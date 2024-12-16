@@ -4,11 +4,17 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Healthy Lifestyle Guide</title>
-    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 24 24%22><text y=%2218%22 font-size=%2224%22>😇</text></svg>">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 24 24%22><text y=%2216%22 font-size=%2220%22>😇</text></svg>">
 </head>
 <body>
     <div id="content">
-        {% include_relative ./README.md %}
+        <div id="readme-content"></div>
+        <script>
+            fetch('./README.md')
+                .then(response => response.text())
+                .then(text => document.getElementById('readme-content').innerHTML = text)
+                .catch(error => console.error('Error loading README.md:', error));
+        </script>
     </div>
 </body>
 </html>
