@@ -26,6 +26,8 @@ Health & Wellness Guide: Tips for Nutrition, Fitness, and Mental Health.
 
 ## Diet 🍖
 ### Podcast Episodes
+- [[Rich Roll] Robin Berzin - LONGEVITY PROTOCOL For Women](https://www.youtube.com/watch?v=P28Pqr9BSWw)💪
+- [[Andrew Huberman]Dr. Stacy Sims - Female Exercise & Nutrition](https://www.youtube.com/watch?v=pZX8ikmWvEU)💪
 - [[The Minimalists] Dr. Sean O'Mara — Minimize Fat](https://www.theminimalists.com/podcast/#408) 💪 🍲
 - [[The Minimalists] Dr. Paul Saladino — Food Clutter](https://www.theminimalists.com/podcast/#384)
 - [[Joe Rogan] Will Harris — White Oak Pastures](https://open.spotify.com/episode/0qf7CYEhxSFPAcdSw1JJMY?si=b6f7eaae9e1b45f2)
@@ -75,6 +77,8 @@ Health & Wellness Guide: Tips for Nutrition, Fitness, and Mental Health.
 ### Podcast Episodes
 - [[Aubrey Marcus] NDE Survivor - Anita Moorjani](https://www.youtube.com/watch?v=6Po0qnuA3Vo) 🧠
 - [[Know Thyself] BioHacking - Dave Asprey](https://www.youtube.com/watch?v=ipe3GM30wZw&list=PLcdXvEekPv1GRqbvjVf41TrYQhjHRO1_q) 🍖 🧠
+- [[Andrew Huberman]Dr. Martha Beck - Access Your Best Self](https://www.youtube.com/watch?v=nOgypsWKjm4)🧠
+- [[Andrew Huberman]Dr. James Hollis - How to Find Your True Purpose](https://www.youtube.com/watch?v=SyWC8ZFVxGo)
 - [[Otherworld] The Valley](https://open.spotify.com/episode/4g1RHKTzlSkZ5nJeMKIXjb?si=2244d19c4425450d) [📝](./Notes/Happiness/Podcasts/[Otherworld]%20The%20Valley.md)
 - [[Only the Important Stuff] Andy Salmela — Kids, Marriage, Loss](https://onlytheimportantstuff.podbean.com/e/the-big-cat-returns/)
 - [[Only the Important Stuff] Krista Ryan — Keep F*!#ing Going](https://onlytheimportantstuff.podbean.com/e/krista-ryan/) [📝](./Notes/Happiness/Podcasts/[Only%20the%20Important%20Stuff]%20Krista%20Ryan%20—%20KeepGoing.md)
