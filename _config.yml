@@ -1,2 +1,15 @@
-title: "Healthy Lifestyle Guide"
+title: "Healthy Lifestyle Guide",
 theme: jekyll-theme-minimal
+
+# Site settings
+title: "Healthy Lifestyle Guide"
+email: info@salmeister.com
+description: "Health and Wellness Guide: Tips for Nutrition, Fitness, and Mental Health."
+url: "https://thehealthylifestyleguide.com/"
+twitter_username: andysalmela"
+github_username:  salmeister
+
+# Build settings
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-feed
