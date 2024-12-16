@@ -1,4 +1,15 @@
-<strong style="color: #333; font-size: 1.5em;">Healthy Lifestyle Guide</strong>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Healthy Lifestyle Guide</title>
+    <style>
+        
+    </style>
+</head>
+<body>
+
     <p style="color: #555;">Health & Wellness Guide: Tips for Nutrition, Fitness, and Mental Health.</p>
     
 <div style="background-color:rgb(212, 212, 212); padding: 10px; border-radius: 10px; margin-bottom: 10px; width: 500px;">
@@ -16,7 +27,7 @@
     </p>
 </div>
 
-<details>
+<details open>
   <summary><strong><span style="font-size: 1.5em;">Diet 🍖</span></strong></summary>
 
 ### Podcast Episodes
