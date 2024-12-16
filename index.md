@@ -1,5 +1,3 @@
-<h1>Healthy Lifestyle Guide</h1>
-> Health & Wellness Guide: Tips for Nutrition, Fitness, and Mental Health.
     
 <h3>Get Involved</h3>
 >    <p><a href="https://github.com/sponsors/salmeister" style="text-decoration: none;"><img src="https://img.shields.io/badge/Sponsor-Healthy%20Lifestyle%20Guide-brightgreen" alt="Sponsor"></a></p>
